@@ -1,0 +1,10 @@
+{
+	"id": "mtctgwio",
+	"name": "Mod That Closes The Game When It Opens",
+	"author": ["Amber N. Q."],
+	"description": "What did you expect.",
+	"prefix": "mtctgwio",
+	"main_file": "main.lua",
+	"priority" : -100000000000,
+	"version": "1.0.0"
+}
